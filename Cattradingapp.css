@@ -1,0 +1,57 @@
+.container {
+  width: 310px;
+  border: 1px solid #dcdcdc;
+  box-shadow: 6px 6px 1px 0px #ebebeb;
+  padding-right: 0.2em;
+  padding-left: 0.7em;
+  padding-bottom: 0.6em;
+}
+
+p {
+  width: 283px;
+  border: 1px solid #dcdcdc;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+/* Image */
+img {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 0.8em;
+}
+
+h4 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+}
+button {
+  background-color: aqua;
+  border-style: none;
+  width: 120px;
+  height: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: aquamarine;
+}
+
+p {
+  font-family: monospace;
+  background-color: aqua;
+}
+
+/* List Information */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+span {
+  font-weight: bold;
+}
